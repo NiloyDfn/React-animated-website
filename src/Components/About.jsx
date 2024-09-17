@@ -17,7 +17,7 @@ function About() {
                 <div className="w-2 h-2 bg-zinc-100 rounded-full"></div>
             </button>
         </div>
-        <div data-scroll data-scroll-speed="-.2" className="w-1/2 h-[70vh] bg-cover bg-center rounded-xl bg-[url('./public/images/Homepage-Photo-663x469.jpg')]"></div>
+        <div data-scroll data-scroll-speed="-.2" className="w-1/2 h-[70vh] bg-cover bg-center rounded-xl bg-[url('/images/Homepage-Photo-663x469.jpg')]"></div>
       </div>
     </div>
   );
